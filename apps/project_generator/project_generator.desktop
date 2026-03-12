@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Lighthouse project_generator
+Exec=project_generator
+Icon=lighthouse
+Categories=Utility;

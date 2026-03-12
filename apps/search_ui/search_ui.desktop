@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Lighthouse search_ui
+Exec=search_ui
+Icon=lighthouse
+Categories=Utility;

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Lighthouse welcome
+Exec=welcome
+Icon=lighthouse
+Categories=Utility;

@@ -1,0 +1,10 @@
+[Unit]
+Description=Lighthouse Background Service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/local/lighthouse/indexer.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
