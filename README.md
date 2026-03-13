@@ -2,6 +2,7 @@
 Privacy‑centered offline‑first Linux distribution.
 
 Build on Windows:
+    Download the latest version of Docker Desktop at https://www.docker.com/products/docker-desktop/
     build-lighthouse.bat
 
 Build on Linux:
